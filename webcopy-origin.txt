@@ -1,0 +1,272 @@
+Uri: http://lotoss43.tilda.ws/
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\index.htm
+Content Type: text/html
+
+Uri: http://lotoss43.tilda.ws/tilda-blocks-page46807939.min.css?t=1713367015
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tilda-blocks-page46807939.min.css
+Content Type: text/css
+
+Uri: http://lotoss43.tilda.ws/tilda-blocks-page46807939.min.js?t=1713367015
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tilda-blocks-page46807939.min.js
+Content Type: application/javascript
+
+Uri: https://neo.tildacdn.com/js/tilda-fallback-1.0.min.js
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\js\tilda-fallback-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Black.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.eot?
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Black-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Black.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Black.woff2
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Black.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Bold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.eot?
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Bold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Bold.woff2
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Extrabold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.eot?
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Extrabold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Extrabold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Extrabold.woff2
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Extrabold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Light.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.eot?
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Light-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Light.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Light.woff2
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Light.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Medium.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.eot?
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Medium-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Medium.woff2
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Regular.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.eot?
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Regular-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Regular.woff2
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Semibold.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.eot?
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Semibold-1.eot
+Content Type: application/octet-stream
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Semibold.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-Semibold.woff2
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-VF.woff
+Content Type: application/font-woff
+
+Uri: https://static.tildacdn.com/fonts/tildasans/TildaSans-VF.woff2
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\fonts\tildasans\TildaSans-VF.woff2
+Content Type: font/woff2
+
+Uri: https://static.tildacdn.info/css/fonts-tildasans.css
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\css\fonts-tildasans.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-animation-2.0.min.css
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\css\tilda-animation-2.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-cover-1.0.min.css
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\css\tilda-cover-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-forms-1.0.min.css
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\css\tilda-forms-1.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-grid-3.0.min.css
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\css\tilda-grid-3.0.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/css/tilda-slds-1.4.min.css
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\css\tilda-slds-1.4.min.css
+Content Type: text/css
+
+Uri: https://static.tildacdn.info/img/tildacopy.png
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\img\tildacopy.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/img/tildafavicon.ico
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\img\tildafavicon.ico
+Content Type: image/x-icon
+
+Uri: https://static.tildacdn.info/js/hammer.min.js
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\js\hammer.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-animation-2.0.min.js
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\js\tilda-animation-2.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-cover-1.0.min.js
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\js\tilda-cover-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-events-1.0.min.js
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\js\tilda-events-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-forms-1.0.min.js
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\js\tilda-forms-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-lazyload-1.0.min.js
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\js\tilda-lazyload-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-map-1.0.min.js
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\js\tilda-map-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-menu-1.0.min.js
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\js\tilda-menu-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-polyfill-1.0.min.js
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\js\tilda-polyfill-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-scripts-3.0.min.js
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\js\tilda-scripts-3.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-skiplink-1.0.min.js
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\js\tilda-skiplink-1.0.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/js/tilda-slds-1.4.min.js
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\js\tilda-slds-1.4.min.js
+Content Type: application/javascript
+
+Uri: https://static.tildacdn.info/tild3031-3939-4238-b137-393563646465/-/resizeb/20x/png-transparent-comp.png
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tild3031-3939-4238-b137-393563646465\-\resizeb\20x\png-transparent-comp.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3066-6361-4833-a561-643461376131/-/resizeb/20x/9986.jpg
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tild3066-6361-4833-a561-643461376131\-\resizeb\20x\9986.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3131-6262-4337-a339-326439373261/-/resizeb/20x/png-transparent-calc.png
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tild3131-6262-4337-a339-326439373261\-\resizeb\20x\png-transparent-calc.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild3639-6138-4561-a532-346165386664/-/resizeb/20x/88.jpg
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tild3639-6138-4561-a532-346165386664\-\resizeb\20x\88.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3664-3233-4433-b537-346138326666/-/resizeb/20x/444.jpg
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tild3664-3233-4433-b537-346138326666\-\resizeb\20x\444.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild3764-3232-4563-b036-383133376436/-/resizeb/20x/77.jpg
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tild3764-3232-4563-b036-383133376436\-\resizeb\20x\77.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild6131-3039-4131-a562-663833633363/-/resizeb/20x/portrait1.jpg
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tild6131-3039-4131-a562-663833633363\-\resizeb\20x\portrait1.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild6236-3030-4731-b033-643931353465/-/resize/20x/priority-headline-ba.png
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tild6236-3030-4731-b033-643931353465\-\resize\20x\priority-headline-ba.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6363-3065-4231-b835-343931333533/-/empty/images.png
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tild6363-3065-4231-b835-343931333533\-\empty\images.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6433-6166-4565-b437-356461353039/-/resize/20x/topBanner.jpg
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tild6433-6166-4565-b437-356461353039\-\resize\20x\topBanner.jpg
+Content Type: image/jpeg
+
+Uri: https://static.tildacdn.info/tild6434-3462-4638-b966-666138306637/-/resizeb/20x/png-klev-club-p-znak.png
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tild6434-3462-4638-b966-666138306637\-\resizeb\20x\png-klev-club-p-znak.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6437-3130-4339-b966-663666633530/images.png
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tild6437-3130-4339-b966-663666633530\images.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6534-3237-4439-b431-333666656431/-/resizeb/20x/8344923.png
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tild6534-3237-4439-b431-333666656431\-\resizeb\20x\8344923.png
+Content Type: image/png
+
+Uri: https://static.tildacdn.info/tild6566-3963-4963-a165-383237383634/-/resizeb/20x/portrait2.jpg
+File Name: C:\Downloaded Web Sites\lotoss43.tilda.ws\tild6566-3963-4963-a165-383237383634\-\resizeb\20x\portrait2.jpg
+Content Type: image/jpeg
+
